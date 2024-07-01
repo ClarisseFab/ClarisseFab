@@ -1,9 +1,7 @@
 - 👋 Hello, moi c'est Clarisse
 - ⚡ Je me suis lancée dans l'apprentissage du développement web en solo et laisse ici les premières lignes de code de mes premiers petits projets
 - 🌱 Je commence à partir de juillet 2024 une formation en développement web avec le Wagon à Lyon
-- 💞️ Et à ce sujet, je recherche d'ailleurs une alternance pour mettre en application les compétences acquises lors de cette formation : 9 semaines de cours puis 13 mois en entreprise avec seulement 17 vendredi de cours, donc presque à temps plein !
 
-- N'hésitez pas à me contacter directement sur [Linkedin](https://www.linkedin.com/in/clarisse-fabrèges/) ou sur mon adresse mail clarisse.fabreges@free.fr
   
 
 <!---
