@@ -1,6 +1,6 @@
 - 👋 Hello, moi c'est Clarisse
-- ⚡ Je me suis lancée dans l'apprentissage du développement web en solo et laisse ici les premières lignes de code de mes premiers petits projets
-- 🌱 Je commence à partir de juillet 2024 une formation en développement web avec le Wagon à Lyon
+- ⚡ En reconversion pro, je me suis d'abord lancée dans l'apprentissage du développement web en solo et laisse ici les premières lignes de code de mes premiers petits projets
+- 🌱 J'ai aussi commencé en juillet 2024 une formation en alternance en développement web à Lyon : 2 mois de formation intensive au Wagon suivi d'une année avec l'équipe de Kinoba ! 
 
   
 
